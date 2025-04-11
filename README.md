@@ -1,0 +1,1 @@
+LinkedIn Job Automation is a powerful tool that automates job searches, filtering, and applications on LinkedIn. Designed to save time and increase job application efficiency, this app helps users stay ahead in a competitive market.
